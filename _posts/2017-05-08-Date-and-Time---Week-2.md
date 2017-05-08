@@ -28,3 +28,13 @@ This week we learnt about control flow, this is where the machine can do more th
 
 We also learnt about date and time and how to use it in our codes. Below is a screenshot of the code used:
 
+<html>
+<body>
+
+<h2>Date and Time:</h2>
+<img src="pic_mountain.jpg" alt="Date" style="width:304px;height:228px;">
+
+</body>
+</html>
+
+
