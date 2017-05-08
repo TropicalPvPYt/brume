@@ -28,3 +28,4 @@ This week we learnt about control flow, this is where the machine can do more th
 
 We also learnt about date and time and how to use it in our codes. Below is a screenshot of the code used:
 
+<img src="http://i63.tinypic.com/23lcrrd.png" >
