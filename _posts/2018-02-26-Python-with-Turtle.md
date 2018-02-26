@@ -12,3 +12,4 @@ In this IT lesson we learnt to draw shapes with Python using the repl.it website
 
 Whilst doing python with turtle we learnt how to rotate and define, also how to import and move forward. Below is a screenshot of the work I ended up with. The work shown below does not work although I did make it work. As the screenshot was taken moments before I finished.
 
+<a> <img src="http://i65.tinypic.com/2hz3f46.png" border="0" alt="Photo not avaiable. Please reload and try again."></a>
